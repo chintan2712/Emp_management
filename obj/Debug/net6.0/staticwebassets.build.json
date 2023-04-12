@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gGj/ZCs61UQ8X+Flu5gLzNrPTYDFaIe+NHQS3Zonvmo=",
+  "Source": "EmployeeManagementProject",
+  "BasePath": "_content/EmployeeManagementProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagementProject\\wwwroot",
+      "Source": "EmployeeManagementProject",
+      "ContentRoot": "D:\\Project\\EmployeeManagementProject\\EmployeeManagementProject\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Project\\EmployeeManagementProject\\EmployeeManagementProject\\wwwroot\\Image\\employee.jpg",
+      "SourceId": "EmployeeManagementProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\EmployeeManagementProject\\EmployeeManagementProject\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementProject",
+      "RelativePath": "Image/employee.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\employee.jpg"
+    }
+  ]
+}
